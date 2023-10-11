@@ -10,3 +10,4 @@ If you know of a nice Unicode font for this language, feel free to add it to the
 
 - http://oracc.museum.upenn.edu/doc/help/visitingoracc/fonts/
   - SIL Open Font License
+- [Other unicode fonts](https://github.com/nerdbond/seed.font.unicode)
